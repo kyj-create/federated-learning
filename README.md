@@ -8,8 +8,8 @@
 
 | 순서 | 학습 주제 | 참고 자료 | 상태 |
 |---|---|---|---|
-| 01 | Federated Learning Fundamentals | 연합학습 기술 동향 및 산업적 시사점 | 학습 및 발표 |
-| 02 | Shapley-Based Aggregation | 연합학습 시 글로벌 모델 성능 향상을 위한 기여도 기반 집계 알고리즘 | 학습 및 발표 |
+| 01 | [Federated Learning Fundamentals](study-notes/01-federated-learning-fundamentals.md) | 연합학습 기술 동향 및 산업적 시사점 | 학습 및 발표 |
+| 02 | [Shapley-Based Aggregation](study-notes/02-shapley-based-aggregation.md) | 연합학습 시 글로벌 모델 성능 향상을 위한 기여도 기반 집계 알고리즘 | 학습 및 발표 |
 
 ## 현재 관심 있는 질문
 
